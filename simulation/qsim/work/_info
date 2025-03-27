@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rishi/OneDrive/Desktop/t1a_fs_pwm/simulation/qsim
+vfrequency_scaler
+Z1 !s110 1726983238
+!i10b 1
+!s100 2FPAnd:<7KDfVYnTZ2RXk3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhA^nZJ@bXIBY9CJFWhB^h2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1726983237
+Z5 8t1a_fs_pwm.vo
+Z6 Ft1a_fs_pwm.vo
+!i122 4
+L0 32 375
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726983237.000000
+Z9 !s107 t1a_fs_pwm.vo|
+Z10 !s90 -work|work|t1a_fs_pwm.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vfrequency_scaler_vlg_vec_tst
+R1
+!i10b 1
+!s100 i`hD3g`hOS;2CL@hl_?[i0
+R2
+If;C0obXGO]C;1g9dz@43_3
+R3
+R0
+w1726983236
+Z13 8Waveform.vwf.vt
+Z14 FWaveform.vwf.vt
+!i122 5
+L0 30 26
+R7
+r1
+!s85 0
+31
+!s108 1726983238.000000
+Z15 !s107 Waveform.vwf.vt|
+Z16 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12
+vhard_block
+R1
+!i10b 1
+!s100 0L6GC@PgHB`eamEHg8;n80
+R2
+I@b5KN6g7Hc=c9@L<_G@T;1
+R3
+R0
+R4
+R5
+R6
+!i122 4
+L0 408 34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vt1a_fs_pwm_bdf
+Z17 !s110 1726944131
+!i10b 1
+!s100 IT6mza=lJ:lHdJ2O7=WV]1
+R2
+I]]OC]d90G7M_QSibmBOdJ2
+R3
+R0
+w1726944129
+R5
+R6
+!i122 0
+L0 32 145
+R7
+r1
+!s85 0
+31
+!s108 1726944130.000000
+R9
+R10
+!i113 1
+R11
+R12
+vt1a_fs_pwm_bdf_vlg_vec_tst
+R17
+!i10b 1
+!s100 1RGbLOfC8FbH8L>Q]N6O^2
+R2
+ISCDfnF2fO=_^9AD_ZRVEI2
+R3
+R0
+w1726944128
+R13
+R14
+!i122 1
+L0 30 32
+R7
+r1
+!s85 0
+31
+!s108 1726944131.000000
+R15
+R16
+!i113 1
+R11
+R12
