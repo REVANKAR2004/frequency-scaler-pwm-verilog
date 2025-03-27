@@ -1,3 +1,4 @@
+
 # Frequency Scaler and PWM Generator – Verilog | Intel Quartus
 
 This project includes two Verilog modules designed and simulated using **Intel Quartus**:
@@ -10,11 +11,7 @@ These modules are commonly used in digital systems like motor control, LED dimmi
 ---
 
 
-## 📁 Project Structure
-
----
-
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Intel Quartus Prime**
 - Verilog HDL
@@ -24,21 +21,21 @@ Optional (if applicable):
 
 ---
 
-## 🧠 Module Descriptions
+## Module Descriptions
 
-### ✅ Frequency Scaler
+###  Frequency Scaler
 - Input: `clk_in`, `reset`
 - Output: `clk_out`
 - Divides input frequency by a programmable or fixed factor.
 
-### ✅ PWM Generator
+###  PWM Generator
 - Inputs: `clk`, `reset`, `duty_cycle`
 - Output: `pwm_out`
 - Outputs a PWM waveform with variable duty cycle.
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open the project in **Intel Quartus**
 2. Compile the Verilog files
@@ -47,6 +44,8 @@ Optional (if applicable):
 
 ---
 
+Below you can find the simulation for the same.
+![Screenshot 2025-03-27 234741](https://github.com/user-attachments/assets/01807bd9-6030-4741-910b-c9e740d7abd5)
 
 
 
